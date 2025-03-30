@@ -1,0 +1,132 @@
+Age,Gender,Education_Level,Employment_Status,Sleep_Hours,Physical_Activity_Hrs,Social_Support_Score,Anxiety_Score,Depression_Score,Stress_Level,Family_History_Mental_Illness,Chronic_Illnesses,Therapy,Meditation,Financial_Stress,Work_Stress,Self_Esteem_Score,Life_Satisfaction_Score,Loneliness_Score
+69,Female,Bachelor's,Retired,8.8,2.8,6,18,7,6,0,0,1,0,1,4,7,4,6
+41,Female,PhD,Employed,9.4,1.3,3,11,7,2,1,0,1,0,4,1,2,8,5
+29,Other,Bachelor's,Unemployed,6.0,2.6,7,18,3,8,0,1,1,0,5,5,6,4,3
+61,Male,PhD,Unemployed,7.1,3.4,8,17,8,3,0,0,1,1,4,3,2,8,7
+24,Female,Other,Student,5.8,0.2,1,13,12,6,0,0,1,1,4,8,2,6,8
+21,Female,PhD,Unemployed,7.4,0.4,7,16,7,3,1,0,1,0,3,7,4,6,6
+67,Female,Master's,Unemployed,5.6,2.0,6,15,11,2,1,1,1,0,2,6,8,7,3
+43,Male,PhD,Retired,7.7,0.5,4,12,10,5,1,0,1,0,3,5,1,4,6
+25,Female,PhD,Retired,4.2,2.5,4,17,13,9,0,0,1,1,9,1,3,6,7
+52,Female,Other,Employed,6.1,1.5,5,11,2,6,1,0,1,0,8,4,7,7,5
+59,Male,Master's,Student,6.0,1.0,8,20,11,8,0,0,1,1,1,7,3,6,7
+46,Female,Other,Retired,5.8,2.6,5,11,13,7,0,0,1,1,2,2,4,8,1
+48,Female,High School,Student,7.4,1.3,5,15,12,4,1,0,1,1,9,3,6,9,2
+74,Male,Bachelor's,Employed,7.0,0.4,7,16,13,9,0,0,1,1,4,1,1,1,5
+62,Female,Master's,Student,6.4,1.2,2,12,15,4,0,1,1,0,1,4,6,4,5
+35,Non-Binary,High School,Unemployed,5.3,0.6,3,17,5,2,0,0,1,1,3,6,2,6,2
+70,Male,High School,Unemployed,5.7,0.9,3,19,1,1,0,1,1,1,9,8,6,4,3
+43,Female,Other,Student,5.5,5.1,9,12,6,6,0,0,1,0,6,8,8,9,1
+18,Female,High School,Student,4.4,0.2,1,16,12,8,1,0,1,0,2,7,8,3,3
+61,Non-Binary,Other,Employed,6.4,7.2,3,20,20,5,0,0,1,0,5,2,3,7,7
+25,Female,High School,Employed,4.2,0.1,5,16,10,2,1,0,1,0,9,7,7,2,4
+18,Female,High School,Employed,4.8,1.8,5,12,14,6,0,1,1,0,2,8,3,6,5
+31,Male,High School,Student,5.2,1.2,9,13,9,9,0,0,1,0,6,2,1,1,7
+56,Male,Master's,Unemployed,5.2,1.3,3,17,10,8,1,1,1,1,4,8,5,2,6
+68,Female,High School,Retired,5.1,1.9,1,19,16,8,0,1,1,0,5,5,7,6,8
+46,Female,PhD,Student,7.1,5.4,5,16,20,8,0,0,1,1,2,2,5,5,1
+61,Female,Bachelor's,Retired,7.6,0.7,1,11,12,7,0,0,1,1,6,3,7,2,7
+42,Male,High School,Unemployed,5.4,0.8,7,13,7,3,0,0,1,1,9,8,3,4,7
+74,Female,Bachelor's,Student,6.2,0.5,8,20,19,5,0,0,1,1,6,6,1,4,9
+74,Male,Bachelor's,Employed,6.6,0.5,4,11,19,7,0,1,1,1,5,1,4,1,1
+20,Non-Binary,Other,Unemployed,6.2,0.0,6,12,6,7,0,0,1,0,3,1,7,4,5
+41,Other,Master's,Employed,4.0,5.6,7,18,4,5,0,0,1,1,2,5,1,9,2
+66,Non-Binary,Bachelor's,Student,8.3,0.7,9,17,20,6,0,1,1,1,7,2,8,5,5
+19,Female,High School,Student,5.1,7.5,7,16,4,8,0,1,1,0,9,3,8,6,1
+70,Female,PhD,Employed,6.1,1.9,3,15,14,7,1,0,1,1,4,6,8,7,3
+73,Non-Binary,PhD,Employed,6.7,0.1,1,12,12,6,1,0,1,1,4,1,6,7,1
+42,Non-Binary,Bachelor's,Employed,4.4,0.1,9,13,8,5,0,1,1,0,2,7,4,7,7
+65,Male,PhD,Retired,6.2,2.5,8,20,4,2,0,0,1,0,6,2,4,4,5
+66,Female,Master's,Retired,4.4,3.1,4,16,6,7,0,0,1,1,7,8,1,8,3
+42,Female,High School,Unemployed,4.7,4.4,2,13,7,1,0,0,1,0,3,7,2,6,4
+46,Male,Bachelor's,Retired,6.0,1.9,1,16,16,1,0,1,1,1,3,9,8,5,1
+35,Female,PhD,Employed,4.2,1.4,6,11,20,7,1,0,1,0,4,9,8,9,2
+63,Non-Binary,Master's,Employed,3.8,3.3,9,17,20,8,0,1,1,1,4,2,2,3,2
+55,Male,Master's,Unemployed,6.4,0.2,1,13,12,1,1,0,1,0,7,5,6,5,7
+50,Male,Master's,Student,4.6,0.4,8,19,12,5,0,1,1,0,6,7,7,8,7
+65,Male,Master's,Unemployed,7.2,3.8,2,20,16,4,1,1,1,0,1,5,2,6,3
+66,Male,Other,Employed,6.0,1.6,9,16,17,1,1,0,1,0,1,8,9,3,1
+61,Non-Binary,Master's,Unemployed,7.1,1.4,7,11,14,2,0,0,1,0,5,2,1,9,5
+63,Male,Master's,Employed,8.1,3.0,5,16,15,2,0,0,1,1,1,8,8,9,6
+54,Female,High School,Unemployed,6.0,3.0,6,17,9,3,0,0,1,1,3,2,5,7,3
+46,Other,High School,Unemployed,7.6,3.2,5,13,11,5,1,0,1,1,2,6,3,4,4
+20,Male,PhD,Employed,5.0,6.8,3,17,2,2,0,0,1,1,8,7,1,8,8
+44,Male,Master's,Unemployed,5.9,0.6,5,16,17,4,1,0,1,0,4,4,4,2,7
+63,Male,PhD,Student,7.3,0.2,7,18,10,3,0,0,1,0,9,6,8,6,2
+68,Male,Bachelor's,Employed,4.2,0.2,9,13,1,8,0,0,1,1,1,7,3,8,8
+23,Female,PhD,Employed,7.1,0.5,1,17,7,2,0,1,1,1,2,2,6,2,2
+21,Female,Other,Unemployed,8.8,0.8,5,12,19,5,0,0,1,1,6,4,8,4,1
+62,Female,High School,Employed,9.2,1.4,7,13,15,5,0,0,1,1,6,7,6,9,2
+52,Male,High School,Retired,4.9,2.3,6,17,4,5,0,0,1,0,6,2,9,4,4
+69,Male,Other,Employed,7.5,2.4,7,19,17,3,0,1,1,0,7,7,7,7,1
+59,Male,High School,Unemployed,8.4,2.4,6,16,7,1,0,0,1,1,8,8,7,7,7
+73,Male,High School,Unemployed,3.5,0.7,6,13,12,3,0,0,1,0,8,6,1,4,9
+36,Female,High School,Unemployed,4.9,1.2,9,13,19,6,0,1,1,0,8,5,4,5,9
+45,Female,Other,Retired,9.4,2.6,8,15,12,3,0,0,1,0,9,4,3,6,9
+43,Non-Binary,Other,Unemployed,4.6,2.2,8,18,2,8,1,0,1,1,1,3,8,3,9
+70,Non-Binary,Other,Unemployed,4.0,1.7,1,13,13,7,0,0,1,0,7,9,2,4,6
+68,Non-Binary,Bachelor's,Employed,9.4,3.0,6,11,16,1,1,0,1,1,1,7,8,2,6
+47,Female,High School,Student,8.5,0.1,2,20,11,6,0,0,1,1,4,3,3,7,5
+50,Female,Other,Unemployed,6.2,4.2,2,15,10,4,0,0,1,0,7,2,9,2,9
+27,Female,High School,Unemployed,2.8,2.1,5,13,2,8,0,1,1,0,4,4,9,2,1
+49,Non-Binary,Master's,Retired,7.0,0.6,4,13,3,6,0,0,1,0,6,4,4,2,7
+22,Female,High School,Unemployed,5.0,1.9,7,19,10,7,0,0,1,1,3,8,7,2,1
+33,Male,Master's,Student,7.3,0.2,6,16,12,3,0,0,1,0,7,4,4,5,1
+19,Female,Other,Employed,4.7,0.8,1,16,11,9,1,1,1,0,9,8,6,3,4
+29,Female,Master's,Student,5.0,2.6,3,11,3,4,1,1,1,0,3,1,9,1,9
+50,Non-Binary,Other,Retired,5.1,0.1,8,16,7,4,0,1,1,1,6,7,6,3,3
+18,Female,Bachelor's,Employed,5.6,8.1,4,12,17,9,0,0,1,1,3,7,4,9,3
+27,Female,PhD,Employed,7.9,0.1,2,18,1,7,0,1,1,1,5,7,7,8,4
+46,Male,Master's,Retired,7.4,2.4,9,20,12,9,0,0,1,0,9,5,5,9,6
+30,Male,Bachelor's,Retired,8.6,1.2,4,12,19,2,0,0,1,0,8,8,4,3,1
+43,Male,PhD,Student,8.9,2.3,3,18,2,5,1,0,1,0,8,7,9,9,3
+28,Male,High School,Retired,7.2,1.2,6,17,20,9,0,0,1,0,8,1,1,2,5
+72,Female,Bachelor's,Employed,5.7,0.1,5,19,15,2,0,0,1,0,4,5,7,4,8
+48,Male,Other,Retired,5.5,0.4,4,18,20,3,0,0,1,0,1,9,7,8,2
+70,Female,Other,Employed,7.1,0.8,5,11,7,7,0,1,1,1,2,7,6,7,2
+40,Male,PhD,Student,3.8,6.3,1,18,18,9,0,1,1,1,1,2,6,5,8
+48,Female,Master's,Employed,6.4,0.5,6,11,16,7,1,0,1,1,3,3,9,7,5
+63,Male,PhD,Employed,5.9,0.7,5,13,3,5,1,1,1,0,3,8,7,8,1
+26,Male,PhD,Student,5.7,0.6,9,15,8,6,1,1,1,0,2,2,6,7,3
+67,Non-Binary,Master's,Employed,2.1,4.9,2,13,6,4,0,0,1,1,4,4,5,8,9
+19,Male,Other,Student,8.1,4.5,1,16,16,9,0,0,1,0,4,8,9,6,3
+34,Female,Bachelor's,Employed,5.8,0.2,2,11,8,7,0,0,1,0,6,6,5,1,1
+21,Female,Master's,Student,6.6,3.2,5,16,13,2,1,0,1,1,9,2,9,4,7
+61,Female,Bachelor's,Student,3.3,0.2,5,11,18,6,1,0,1,0,9,5,3,7,4
+44,Male,High School,Unemployed,6.0,3.4,6,12,10,3,0,0,1,0,6,7,4,3,2
+38,Female,Master's,Unemployed,9.1,5.7,2,16,11,5,0,0,1,0,2,7,9,6,5
+28,Non-Binary,PhD,Student,5.3,0.6,9,15,15,9,1,1,1,0,7,3,5,3,4
+40,Male,High School,Unemployed,7.5,0.6,2,19,20,8,1,0,1,0,4,4,4,5,5
+71,Male,Bachelor's,Unemployed,5.4,8.6,3,20,8,7,1,1,1,0,1,6,2,6,7
+73,Female,High School,Retired,9.4,3.4,2,15,6,6,1,1,1,1,9,2,4,3,9
+64,Male,Other,Employed,8.4,4.1,3,14,4,1,1,0,1,0,6,5,2,7,2
+42,Male,Bachelor's,Retired,6.2,1.4,3,19,19,5,0,0,1,0,5,5,1,5,6
+58,Female,High School,Student,5.3,0.3,4,16,7,3,1,0,1,1,6,2,7,8,8
+40,Male,High School,Retired,7.0,0.5,8,11,6,6,0,0,1,1,7,5,1,5,7
+36,Female,PhD,Unemployed,7.6,2.2,5,13,20,8,1,0,1,1,4,8,3,6,6
+34,Female,PhD,Retired,4.2,1.2,7,15,1,7,1,0,1,0,7,8,7,3,3
+18,Female,High School,Employed,6.3,3.2,4,12,16,5,1,0,1,1,8,5,7,8,1
+66,Male,Bachelor's,Unemployed,7.2,1.2,2,11,10,1,1,0,1,1,9,7,7,8,5
+56,Female,Bachelor's,Retired,6.9,4.9,9,16,17,8,0,0,1,0,2,7,3,9,8
+22,Male,High School,Retired,3.4,3.0,5,20,20,5,0,0,1,0,2,5,4,8,2
+47,Female,High School,Student,6.7,0.5,3,13,5,4,0,0,1,0,7,3,4,7,4
+40,Female,Other,Retired,8.3,1.5,7,13,2,3,0,0,1,0,6,2,8,6,6
+32,Female,Other,Employed,6.3,0.7,4,12,19,2,0,1,1,1,3,8,2,4,3
+41,Male,PhD,Retired,6.3,0.1,5,15,20,7,0,1,1,0,8,4,1,4,5
+60,Female,PhD,Retired,6.9,1.0,1,12,10,4,1,0,1,1,1,5,5,3,1
+44,Male,High School,Employed,7.7,0.3,7,20,14,9,0,0,1,0,8,7,2,9,3
+35,Female,Other,Retired,7.0,1.2,9,15,6,2,0,0,1,1,1,7,2,8,4
+38,Male,Bachelor's,Unemployed,3.2,1.4,1,17,15,8,1,1,1,1,6,9,9,8,5
+74,Male,Master's,Unemployed,5.3,7.7,7,20,18,8,0,1,1,0,8,4,2,4,6
+69,Male,Bachelor's,Employed,3.4,2.5,6,19,6,2,0,1,1,1,4,8,2,2,7
+31,Female,PhD,Unemployed,4.7,0.5,7,16,16,8,0,0,1,1,2,3,4,6,6
+68,Male,Bachelor's,Retired,6.5,2.4,3,16,15,2,0,0,1,1,6,9,4,6,8
+61,Female,PhD,Retired,4.7,0.5,6,19,14,7,1,0,1,1,3,6,2,1,2
+20,Female,Bachelor's,Unemployed,7.2,1.6,8,18,18,3,1,1,1,0,7,4,5,4,8
+66,Male,High School,Retired,6.0,0.0,9,14,2,4,0,1,1,0,9,7,3,4,5
+69,Female,PhD,Retired,8.1,0.1,8,15,10,2,0,0,1,1,5,3,6,8,5
+20,Female,Master's,Employed,6.7,0.2,7,17,8,2,0,1,1,0,9,4,9,4,9
+68,Female,Other,Student,4.9,0.0,3,18,1,7,0,0,1,1,9,2,9,9,5
+48,Male,High School,Retired,4.2,0.3,7,13,11,5,0,1,1,0,9,4,3,3,8
+73,Male,Other,Retired,7.5,1.3,6,17,3,6,0,0,1,0,3,3,2,7,1
+32,Male,Other,Unemployed,8.0,0.4,8,20,2,9,1,0,1,0,8,8,9,9,9
